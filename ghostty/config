@@ -1,0 +1,22 @@
+theme = TokyoNight Night
+
+mouse-hide-while-typing = true
+
+gtk-titlebar = false
+#window-decoration = none
+
+background-opacity = 0.9
+background-blur-radius = 10
+
+palette = 1=#B91919
+palette = 2=#86D531
+palette = 3=#E0A228
+palette = 4=#1A55D3
+palette = 5=#8558D8
+palette = 6=#5DAAD7
+palette = 7=#969DBD
+
+# padding
+window-padding-x = 10
+window-padding-y = 5
+window-padding-balance = true
